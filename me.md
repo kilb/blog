@@ -6,8 +6,13 @@ hidden: true
 omitDate: true
 ---
 
+## Contact
+
+Email: ke@bll.io, Github: kilb
 
 ## Education
 
-2017.9 - Present, Peking University
+2017.9 - Present, Peking University, Computer Science.
+
+2011.9 - 2015.6, Zhejiang University, Biosystem Engineering.
 
