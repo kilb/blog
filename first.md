@@ -5,5 +5,7 @@ draft: false
 
 ---
 
-测试页，无任何内容。
+Coming soon!
+
+have a nice day!
 
